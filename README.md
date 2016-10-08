@@ -43,7 +43,7 @@ $ ./copyid.sh
 ```
 
 
-7. Configure "do.sh" and run it. The hardening script "abc.sh" would be run on the remote host as a sudoer. 
+### 7. Configure "do.sh" and run it. The hardening script "abc.sh" would be run on the remote host as a sudoer. 
 ```sh 
 $ nano do.sh
 
