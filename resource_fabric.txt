@@ -1,0 +1,10 @@
+
+How To Use Fabric To Automate Administration Tasks And Deployments
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
+
+
+Using an SSH keyfile with Fabric
+http://stackoverflow.com/questions/5327465/using-an-ssh-keyfile-with-fabric
+
+
+
